@@ -78,20 +78,11 @@ Merchant risk assessment is essential in lending, trade finance, and business an
 
 ---
 
-## How to Explore
-
-- Browse the visuals and summary tables above
-- See the full report in [`/Report.pdf`](./Report.pdf) (optional—attach if you convert this markdown/report to PDF)
-- Review the code in [`redflag_analysis.py`](./redflag_analysis.py)
-
----
-
 ## About Me
 
-**[Your Name]**  
-Data analytics & financial modeling enthusiast | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
+**Ruomeng Sun**  
+Data analytics & financial modeling enthusiast | [LinkedIn](https://www.linkedin.com/in/ruomengsun/) | [Email](synruomeng@gmail.com)
 
 ---
 
-> *This project bridges technical analysis and business insight, using data storytelling to support real-world credit and underwriting decisions.*
 
